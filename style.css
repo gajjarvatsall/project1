@@ -40,3 +40,11 @@ p{
 .press-text{
     padding-bottom: 5%;
 }
+.fourth .py-5 {
+    padding-top: 3rem!important;
+    padding-bottom: 0rem!important
+}
+.fourth .my-5 {
+    margin-top: 3rem!important;
+    margin-bottom: 0rem!important;
+}
